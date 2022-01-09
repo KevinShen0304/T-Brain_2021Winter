@@ -4,7 +4,8 @@
 
 *注意:  
 Data/simple_data/tbrain_cc_training_48tags_hash_final_simple.csv  
-為範例數據，僅包含前200個chid，完整資料請至競賽介面下載並取代
+為範例數據，僅包含前200個chid，完整資料請至競賽介面下載並取代  
+(代碼尚未整理優化，見諒)
 
 # 執行順序
 1.資料前處裡/gene_train_data.py  
@@ -21,4 +22,3 @@ Data/simple_data/tbrain_cc_training_48tags_hash_final_simple.csv
 
 5.predict.py  
 預測dt25之結果
-
